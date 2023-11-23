@@ -4,7 +4,6 @@ def check_anagram(str1, str2):
 
     return sorted(str1) == sorted(str2)
 
-# Example usage:
 string1 = input("Enter first string: ")
 string2 = input("Enter second string: ")
 
