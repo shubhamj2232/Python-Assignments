@@ -1,13 +1,13 @@
 def count_freq(input_list):
-    frequency_dict = {}
+    freq_dict = {}
 
     for element in input_list:
-        if element in frequency_dict:
-            frequency_dict[element] += 1
+        if element in freq_dict:
+            freq_dict[element] += 1
         else:
-            frequency_dict[element] = 1
+            freq_dict[element] = 1
 
-    return frequency_dict
+    return freq_dict
 
 input_list = [1, 2, 3, 2, 4, 1, 2, 4, 5]
 
