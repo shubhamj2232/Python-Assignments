@@ -9,7 +9,6 @@ def find_lcm(num1, num2):
 
     return lcm
 
-# Example usage:
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 
