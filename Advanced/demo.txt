@@ -1,0 +1,4 @@
+Python's simplicity and readability have contributed to its popularity, 
+making it one of the most widely used programming languages. 
+Whether you are a beginner or an experienced developer, 
+Python is a language that can be both powerful and easy to learn.
